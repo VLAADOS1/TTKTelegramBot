@@ -1,0 +1,80 @@
+error: "⛔ Unexpected error, please contact technical support."
+
+authorization: "⛔ Please log in or sign a new contract."
+
+loginclient: "Log in as TTK client"
+createcontract: "Sign a new contract"
+
+getcontract: "💬 Enter the contract number"
+getphone: "💬 Enter your phone number or share it"
+sharephone: "Provide phone number"
+getadres: "💬 Enter the address for service connection"
+succesreg: "⭐ Registration completed! Enter /start to begin using the bot."
+succeslog: "⭐ Login completed! Enter /start to begin using the bot."
+logerr: "⛔ The contract was not found. Please enter the correct contract number."
+curnumber: "⛔ Please enter a valid phone number without spaces, starting with +7"
+
+mainmess: "👋 Welcome to the smart bot TTK! 
+
+This bot will help you easily and quickly manage TTK services. 
+
+Select an action below!📝"
+
+maininfo: "💼 List of tariffs and services"
+mainapp: "📲 Submit a connection request"
+mainprofil: "📚 My profile"
+maintp: "⚙️ Technical support"
+
+serviceinfo: "📋 List of tariffs: 
+
+🚀 Maximum — 1000 Mbps, 800₽/month
+⚡ Powerful — 100 Mbps, 400₽/month
+💼 Honest — 10 Mbps, 100₽/month
+
+📦 List of services: 
+
+🛡️ Kaspersky Antivirus — 100₽/month
+🌐 Dedicated IP — 100₽/month
+🤝 Personal Manager — 100₽/month
+📶 Branded Router — 100₽/month"
+appconnect: "📲 Please write which service or tariff you want to connect."
+
+appmax: "🌐 You have selected the 'Maximum' tariff — 1000 Gbps for 800₽/month."
+appmosh: "⚡ You have selected the 'Powerful' tariff — 100 Mbps for 400₽/month."
+apphonest: "✅ You have selected the 'Honest' tariff — 10 Mbps for 100₽/month."
+appkasper: "🛡️ You have selected the 'Kaspersky Antivirus' service for 100₽/month."
+appip: "🌍 You have selected the 'Dedicated IP' service for 100₽/month."
+appmen: "👨‍💼 You have selected the 'Personal Manager' service for 100₽/month."
+approuter: "📶 You have selected the 'Branded Router' service for 100₽/month."
+null: "🚫 We could not understand your request. Please try rephrasing it."
+
+getrequest: "🤝 Create a request for service connection"
+request: "✅ Your request has been submitted, please wait, our specialist will contact you"
+
+myprofilMain: "🚪 <b>Your profile👇</b> "
+myprofilContract: "📄 <b>Contract number:</b> "
+myprofilPhone: "📞 <b>Phone:</b> "
+myprofilAdress: "📍 <b>Address:</b> "
+
+changeName: "Change name"
+changePhone: "Change phone number"
+changeAdress: "Change address"
+
+changeNameText: "💬 Please enter your new name"
+changePhoneText: "💬 Please enter your new phone number"
+changeAdressText: "💬 Please enter your new address"
+
+changeNameSuccess: "✅ Your name has been successfully changed"
+changePhoneSuccess: "✅ Your phone number has been successfully changed"
+changeAdressSuccess: "✅ Your address has been successfully changed"
+
+support: "🛠 **Technical support** 
+
+📞 **Phone:** 8 800-775-0-775   
+
+🎉 Free call across Russia
+
+💬 Or contact us on social media:
+
+🔹 <a href=\"https://m.sitehelp.me/vkGroup?siteId=zu9ovvb1f8vtlha3lj6kbx14i1uy5886&clientId=pIeRzRCbEAewS1IgGC1u9omgc96NBqgr&url=https%3A%2F%2Fvk.com%2Fttk\">VK</a>
+🔹 <a href=\"https://m.sitehelp.me/telegram?siteId=zu9ovvb1f8vtlha3lj6kbx14i1uy5886&clientId=pIeRzRCbEAewS1IgGC1u9omgc96NBqgr&url=https%3A%2F%2Ft.me%2Fttkrus\">Telegram</a>"
