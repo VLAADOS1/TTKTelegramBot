@@ -25,10 +25,8 @@ public class EnglishLanguageButton implements ButtonHandler {
     public void handle(Update update) {
         String chatId = String.valueOf(update.callbackQuery().message().chat().id());
 
-        // Отправляем telegramId, если еще не зарегистрирован
         sendTelegramId(chatId);
 
-        // Устанавливаем язык пользователя на английский
         if (setUserLanguage(chatId, "en")) {
             bot.execute(new SendMessage(chatId, "\uD83C\uDDFA\uD83C\uDDF2 You selected English! Welcome to the bot! \uD83C\uDF89"));
         } else {
