@@ -25,7 +25,7 @@ sudo apt install openjdk-11-jdk gradle git -y
 
 git clone
 
-Шаг 3: Закиньте токен вашего бота в resource/config
+Шаг 2.5: Закиньте токен вашего бота в resource/config
 
 Шаг 3: Соберите проект
 
